@@ -45,7 +45,3 @@ elif player_one == computer:
 
 
 
-
-#player1
-#can pick between rock paper  scissors 
-#use if statement to compare between p1 and computer
